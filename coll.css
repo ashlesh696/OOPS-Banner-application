@@ -1,0 +1,12 @@
+h1{
+    color: rgb(35, 221, 25);
+}
+body{
+    background-color: rgb(208, 89, 21);
+}
+button{
+    font-size: larger;
+    text-align: center;
+    background-color: aqua;
+    text-decoration-color: blanchedalmond;
+}
