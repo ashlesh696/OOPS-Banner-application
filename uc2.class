@@ -1,0 +1,17 @@
+// Source code is decompiled from a .class file using FernFlower decompiler (from Intellij IDEA).
+public class uc2 {
+   public uc2() {
+   }
+
+   public static void main(String[] var0) {
+      System.out.println(String.join(" ", "   ***        ***      ******        ***** "));
+      System.out.println(String.join(" ", " **   **    **   **    **    **     **     "));
+      System.out.println(String.join(" ", "**     **  **     **   **     **   **     "));
+      System.out.println(String.join(" ", "**     **  **     **   **    **     **  "));
+      System.out.println(String.join(" ", "**     **  **     **   ******        ***"));
+      System.out.println(String.join(" ", "**     **  **     **   **              **  "));
+      System.out.println(String.join(" ", "**     **  **     **   **               **     "));
+      System.out.println(String.join(" ", " **   **    **    **   **              **       "));
+      System.out.println(String.join(" ", "   ***        ***      **         *****    "));
+   }
+}
